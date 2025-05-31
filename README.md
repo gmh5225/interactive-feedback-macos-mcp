@@ -4,7 +4,8 @@ A native macOS MCP server for collecting interactive user feedback with AppleScr
 
 ![image](https://github.com/user-attachments/assets/5b42b61c-090c-4c4e-a1b7-00bff33e3ee7)
 
-![image](https://github.com/user-attachments/assets/298c2f9d-d9c8-4ab4-b447-53f32a7f91a4)
+![image](https://github.com/user-attachments/assets/a0652fa6-5ddb-48c5-a3cb-067a95748110)
+
 
 
 
