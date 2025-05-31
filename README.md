@@ -2,7 +2,9 @@
 
 A native macOS MCP server for collecting interactive user feedback with AppleScript dialogs and image support.
 
-![image](https://github.com/user-attachments/assets/5b42b61c-090c-4c4e-a1b7-00bff33e3ee7)
+![image](https://github.com/user-attachments/assets/7d321b56-303c-4045-9ec5-de865c1c5b11)
+
+
 
 ![image](https://github.com/user-attachments/assets/a0652fa6-5ddb-48c5-a3cb-067a95748110)
 
