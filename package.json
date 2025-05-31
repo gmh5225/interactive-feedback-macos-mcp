@@ -1,0 +1,24 @@
+{
+	"name": "interactive-feedback-macos-mcp",
+	"version": "1.0.2",
+	"description": "macOS MCP tool for collecting interactive user feedback with native dialogs and image support",
+	"main": "src/mcp-server-macos.js",
+	"scripts": {
+		"start": "node src/mcp-server-macos.js",
+		"format": "biome format . --write",
+		"lint": "biome lint ."
+	},
+	"dependencies": {
+		"@modelcontextprotocol/sdk": "0.5.0",
+		"image-size": "^1.0.2"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4"
+	},
+	"bin": {
+		"interactive-feedback-macos-mcp": "./src/mcp-server-macos.js"
+	},
+	"keywords": ["mcp", "macos", "feedback", "interactive"],
+	"author": "gmh5225",
+	"license": "MIT"
+}
