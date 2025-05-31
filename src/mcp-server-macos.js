@@ -447,7 +447,7 @@ async function setupNativeMCPServer() {
 	const server = new Server(
 		{
 			name: "interactive-feedback-macos-mcp",
-			version: "1.0.1",
+			version: "1.0.2",
 		},
 		{
 			capabilities: {
