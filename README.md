@@ -2,6 +2,12 @@
 
 A native macOS MCP server for collecting interactive user feedback with AppleScript dialogs and image support.
 
+![image](https://github.com/user-attachments/assets/5b42b61c-090c-4c4e-a1b7-00bff33e3ee7)
+
+![image](https://github.com/user-attachments/assets/298c2f9d-d9c8-4ab4-b447-53f32a7f91a4)
+
+
+
 ## ✨ What's Different
 
 This is a macOS-native reimplementation of the original [interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) by Fábio Ferreira ([@fabiomlferreira](https://x.com/fabiomlferreira)) with the following enhancements:
